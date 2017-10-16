@@ -1,0 +1,8 @@
+<component name="ArtifactManager">
+  <artifact type="war" name="tempConverterAxis:war">
+    <output-path>$PROJECT_DIR$/target</output-path>
+    <root id="archive" name="tempConverterAxis.war">
+      <element id="artifact" artifact-name="tempConverterAxis:war exploded" />
+    </root>
+  </artifact>
+</component>
